@@ -1,2 +1,3 @@
 # GrokkingAlgorithmOnGolang
-# "Grokking Algorithms" On Golang
+
+This is the my code in book "Grokking Algorithms" written on Golang.
